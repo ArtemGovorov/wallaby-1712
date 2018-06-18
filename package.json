@@ -1,0 +1,11 @@
+{
+  "name": "wallaby-1712",
+  "version": "0.0.1",
+  "dependencies": {
+    "babel-plugin-ramda": "^1.6.1",
+    "babel-plugin-transform-es2015-destructuring": "^6.23.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-0": "^6.24.1",
+    "jest": "^23.1.0"
+  }
+}
